@@ -1,8 +1,0 @@
-In order to open these files. You must have Python. 
-
-Jupyter notebook in Anaconda or Python in Vscode, Though jupyter notebook is more preferable for beginners and is what we will be using throughout this course.
-
-Once you have anaconda downloaded ( https://www.anaconda.com/download    ==> Press the "skip button under the big green "Submit" button ) and installed in your system, You can
-now get started.
-
-Search in windows search bar "Jupyter Notebook"
