@@ -1,0 +1,7 @@
+Program to find odd and even number;
+array = [10, 15, 23, 42, 67, 88, 91, 34, 56, 77]
+for num in array:
+    if num % 2 == 0:
+        print(f'{num} is even.')
+    else:
+        print(f'{num} is odd.')

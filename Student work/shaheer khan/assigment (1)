@@ -1,0 +1,35 @@
+Program to find odd and even number;
+n = [1,2,3,4,5,6,7,8,9,10]
+for i in n:
+if i % 2 == 0:
+print(f'{i} is an even number')
+else:
+print(f'{i} is an odd number')
+code to find the average:
+def processing_score(student1, student2, student3, student4):
+    average = (student1 + student2 + student3 + student4) / 4
+    return average
+student1 = 23
+student2 = 25
+student3 = 22
+student4 = 26
+verage_score = processing_score(student1, student2, student3, student4)
+print("Average score:",average_score)
+finding highest score;
+def processing_score(student1, student2, student3, student4):
+    largest_score = max(student1, student2, student3, student4)
+    return largest_score
+student1 = 23
+student2 = 25
+student3 = 22
+student4 = 26
+print(processing_score(student1, student2, student3, student4))
+finding the lowes score:
+def processing_score(student1, student2, student3, student4):
+    largest_score = min(student1, student2, student3, student4)
+    return largest_score
+student1 = 23
+student2 = 25
+student3 = 22
+student4 = 26
+print(processing_score(student1, student2, student3, student4))
